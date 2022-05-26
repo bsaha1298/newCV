@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'quicksand',sans-serif;
+
+}
+h1{
+
+  width: 40%;
+margin: auto;
+font-family: 'sacramento',cursive;
+color: #371B58;
+font-size: 400%;
+
+}
+.a{
+  font-size: 200%;
+}
+h2{
+  color: #2F8F9D;
+}
+.top-container{
+  background-color: #E8F9FD;
+  padding-top: 100px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 350px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.coding1-image{
+  max-width: 10%;
+  max-height: 10%;
+}
+.coding-image{
+  max-width: 12%;
+  max-height: 12%
+}
+.skill-row{
+  margin-left: 30%;
+  margin-right: 30%;
+}
